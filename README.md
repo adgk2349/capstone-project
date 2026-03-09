@@ -1,4 +1,4 @@
-# Capstone Project
+# Traveller (Capstone Project)
 
 University Capstone Design Project (Team Project)
 
